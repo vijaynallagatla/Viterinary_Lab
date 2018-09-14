@@ -1,0 +1,40 @@
+.btn {
+    
+    border: 0 none;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+ 
+.btn:focus, .btn:active:focus, .btn.active:focus {
+    outline: 0 none;
+}
+ 
+ 
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active{
+    background: #33a6cc;
+}
+ 
+.btn-primary:active, .btn-primary.active {
+    background: #007299;
+    box-shadow: none;
+}
+
+.btn-success {
+	background: #008080;
+	padding: 10px 20px;
+	font-weight:700;
+	border-radius: 24px;
+}
+.btn-info {
+	padding: 10px 20px;
+	font-weight:700;
+	background: #5DADE2;
+	border-radius: 24px;
+}
+.btn-warning {
+	padding: 10px 20px;
+	font-weight:700;
+	background: #E74C3C;
+	border-radius: 24px;
+}

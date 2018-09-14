@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<State>
+	<Karnataka>
+		<place>Bagalkote</place>
+		<place>Bangalore Rural</place>
+		<place>Bangalore Urban</place>
+		<place>Belagavi</place>
+		<place>Ballari</place>
+		<place>Bidar</place>
+		<place>Chamarajanagar</place>
+		<place>Chikkaballapur</place>
+		<place>Chikkamagaluru</place>
+		<place>Chitradurga</place>
+		<place>Dakshina Kannada</place>
+		<place>Davanagere</place>
+		<place>Dharwad</place>
+		<place>Gadag</place>
+		<place>Gulbarga</place>
+		<place>Hassan</place>
+		<place>Haveri</place>
+		<place>Kodagu</place>
+		<place>Kolar</place>
+		<place>Koppal</place>
+		<place>Mandya</place>
+		<place>Mysuru</place>
+		<place>Raichur</place>
+		<place>Ramanagara</place>
+		<place>Shivamogga</place>
+		<place>Tumakuru</place>
+		<place>Udupi</place>
+		<place>Uttara Kannada</place>
+		<place>Vijayapura</place>
+		<place>Yadgir</place>
+	</Karnataka>
+	<AndhraPradesh>
+		<place>Anantapur</place>
+		<place>Chittoor</place>
+		<place>East Godavari</place>
+		<place>Guntur</place>
+		<place>Kadapa</place>
+		<place>Krishna</place>
+		<place>Kurnool</place>
+		<place>Prakasam</place>
+		<place>Nellore</place>
+		<place>Srikakulam</place>
+		<place>Visakhapatnam</place>
+		<place>Vizianagaram</place>
+		<place>West Godavari</place>
+	</AndhraPradesh>
+	<ArunachalPradesh>
+		<place>Tawang District</place>
+		<place>West Kameng District</place>
+		<place>East Kameng District</place>
+		<place>Papum Pare District</place>
+		<place>Kurung Kumey District</place>
+		<place>Kra Daadi District</place>
+		<place>Lower Subansiri District</place>
+		<place>Upper Subansiri District</place>
+		<place>West Siang District</place>
+		<place>Central Siang District</place>
+		<place>East Siang District</place>
+		<place>Upper Siang District</place>
+		<place>Upper Dibang Valley District</place>
+		<place>Lower Dibang Valley District</place>
+		<place>Anjaw District</place>
+		<place>Lohit District</place>
+		<place>Namsai District</place>
+		<place>Changlang District</place>
+		<place>Tirap District</place>
+		<place>Longding District</place>
+	</ArunachalPradesh>
+	<Assam>
+		<place>Baksa</place>
+		<place>Barpeta</place>
+		<place>Biswanath</place>
+		<place>Bongaigaon</place>
+		<place>Cachar</place>
+		<place>Charaideo</place>
+		<place>Chirang</place>
+		<place>Darrang</place>
+		<place>Dhemaji</place>
+		<place>Dhubri</place>
+		<place>Dibrugarh</place>
+		<place>Goalpara</place>
+		<place>Golaghat</place>
+		<place>Hailakandi</place>
+		<place>Hoja</place>
+		<place>Jorhat</place>
+		<place>Kamrup Metropolitan</place>
+		<place>Kamrup</place>
+		<place>Karbi Anglong</place>
+		<place>Karimganj</place>
+		<place>Kokrajhar</place>
+		<place>Lakhimpur</place>
+		<place>Majuli</place>
+		<place>Morigaon</place>
+		<place>Nagaon</place>
+		<place>Nalbari</place>
+		<place>Dima Hasao</place>
+		<place>Sivasagar</place>
+		<place>Sonipur</place>
+		<place>South Salmara-Mankachar</place>
+		<place>Tinsukia</place>
+		<place>Udalguri</place>
+		<place>West Karbi Anglong</place>
+	
+	</Assam>
+	<TamilNadu>
+		<place>Ariyalur</place>
+		<place>Chennai</place>
+		<place>Coimbatore</place>
+		<place>Cuddalore</place>
+		<place>Dharmapuri</place>
+		<place>Dindigul</place>
+		<place>Erode</place>
+		<place>Kancheepuram</place>
+		<place>Karur</place>
+		<place>Krishnagiri</place>
+		<place>Madurai</place>
+		<place>Nagapattinam</place>
+		<place>Kanyakumari</place>
+		<place>Namakkal</place>
+		<place>Perambalur</place>
+		<place>Pudukottai</place>
+		<place>Ramanathapuram</place>
+		<place>Salem</place>
+		<place>Sivagangai</place>
+		<place>Thanjavur</place>
+		<place>Theni</place>
+		<place>Thiruvallur</place>
+		<place>Thiruvarur</place>
+		<place>Tuticorin</place>
+		<place>Trichirappalli</place>
+		<place>Thirunelvelli</place>
+		<place>The Nilgiris</place>
+		<place>Vellore</place>
+		<place>Villupuram</place>
+		<place>Virudhanagar</place>
+	</TamilNadu>
+	<Kerala>
+		<place>Thiruvananthapuram</place>
+		<place>Kochi</place>
+		<place>Kozhikode</place>
+		<place>Kollam</place>
+		<place>Thrissur</place>
+		<place>Kannur</place>
+	</Kerala>
+</State>
